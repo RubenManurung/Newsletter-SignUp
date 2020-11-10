@@ -1,0 +1,6 @@
+This App created using NodeJs and mailchimp API's.
+I build this app because I want to explore more about API's and
+want to build better App in the future.
+
+You can use it for free if you wish. 
+Have a Good Day! :)
